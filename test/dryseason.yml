@@ -1,0 +1,4 @@
+dummy:
+  class: Dummy
+  args:
+    stuff_str: Humble test
